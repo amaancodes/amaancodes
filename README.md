@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @amaancodes
 - 👀 I’m interested in Full Stack Web Development and Open Source
-- 🌱 I’m currently learning JS
+- 🌱 I’m currently learning ReactJS
 - 💞️ I’m looking to collaborate on new and exciting projects
 - 📫 Reach out to me amaanmulla07@gmail.com
 
