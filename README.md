@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @amaancodes
-- 👀 I’m interested in Full Stack Web Development and Open Source
-- 🌱 I’m currently learning ReactJS
-- 💞️ I’m looking to collaborate on new and exciting projects
+- 👀 I’m Full Stack Developer specializing in Python - Flask, Django and FastAPI
 - 📫 Reach out to me amaanmulla07@gmail.com
 
 <!---
