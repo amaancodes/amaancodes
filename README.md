@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @amaancodes
-- 👀 I’m Full Stack Developer specializing in Python - Flask, Django and FastAPI
+- 👀 I’m Full Stack Developer specializing in Python - Flask, Django and FastAPI and NodeJS and ReactJS
 - 📫 Reach out to me amaanmulla07@gmail.com
 
 <!---
